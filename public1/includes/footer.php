@@ -45,7 +45,7 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.js"></script>
 <script>
-    $(".myli a").each(function() {
+    $(".myli a:not('.nor')").each(function() {
         var $this = $(this);
         var _href = $this.attr("href");
         $this.attr("href", "vfile.php?file=" + _href );
