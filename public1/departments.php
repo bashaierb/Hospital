@@ -13,7 +13,7 @@
 
                 <div class="col-md-4" style="padding-top:25px">
                     <div class="card" style="height:100%">
-                        <img class="img-responsive" src="files/images/news_001.jpg" alt="Card image cap">
+                        <img src="files/images/inf.png" alt="Card image cap">
                         <div class="card-body">
                             <a href="spdepartments" class="list-group-item "><h4 class="card-title">Department...</h4></a>
                         </div>

@@ -14,10 +14,10 @@
                 <div class="col-md-5" >
                     <div class="btn-group btn-group-justified" role="group" aria-label="...">
                         <div class="btn-group" role="group">
-                            <button type="button" class="btn btn-default"><a href="spdepartments">Introduction</button></a>
+                             <a href="spdepartments" class='btn btn-primary'>Introduction</a>
                         </div>
                         <div class="btn-group" role="group">
-                            <button type="button" class="btn btn-default"><a href="medicalstaffdep.php">Medical Staff</button></a>
+                           <a href="medicalstaffdep" class='btn btn-primary'>Medical Staff</a>
                         </div>
 
                     </div>

@@ -2,9 +2,9 @@
 
 				<div class="col-md-3" style="padding-top:25px;">
 					<div class="list-group">
-						<a href="tqm" class="list-group-item active">Quality & Safety </a>
+						<a href="tqm" class="list-group-item active ">Quality & Safety </a>
 						<a href="procedur&policy" class="list-group-item list-group-item-action">Policies & procedures</a>
-						<a href="clinicalprocedureguideline" class="list-group-item list-group-item-action">Clinical Procedures & Guidelines</a>
+						<a href="clinicalprocedureguideline" class="list-group-item list-group-item-action">Clinical Protocols & Guidelines</a>
 						<a href="tqmbook" class="list-group-item list-group-item-action">Books</a>
 						<a href="tqmpresentation" class="list-group-item list-group-item-action">Orientations</a>
 						<a href="tqmvedio" class="list-group-item list-group-item-action">videos</a>
@@ -14,14 +14,13 @@
 
 				<div class="row">
 
-					<div class="col-md-5" >
-					<div class="btn-group btn-group-justified" role="group" aria-label="...">
-                    <div class="btn-group" role="group">
+					<div class="col-md-10" >
+					<div class="btn-group btn-group-justified" >
                    <a class="btn btn-primary" href="procedur&policy">Introduction</a>
-                     </div>
-                    <div class="btn-group" role="group">
-                  <a href="cebahichapters" class="btn btn-primary">Cebahi & GCI</a>
-                   </div>
+
+                   <a href="cebahichapters" class="btn btn-primary">General Polocies</a>
+
+                   <a href="deppolices" class="btn btn-primary">Departmental Policies</a>
 
                     </div>
 					</div>

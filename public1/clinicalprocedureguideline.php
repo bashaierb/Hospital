@@ -5,7 +5,7 @@
 					<div class="list-group">
 						<a href="tqm" class="list-group-item active ">Quality & Safety </a>
 						<a href="procedur&policy" class="list-group-item list-group-item-action">Policies & procedures</a>
-						<a href="clinicalprocedureguideline" class="list-group-item list-group-item-action">Clinical Procedures & Guidelines</a>
+						<a href="clinicalprocedureguideline" class="list-group-item list-group-item-action">Clinical Protocols & Guidelines</a>
 						<a href="tqmbook" class="list-group-item list-group-item-action">Books</a>
 						<a href="tqmpresentation" class="list-group-item list-group-item-action">Orientations</a>
 						<a href="tqmvedio" class="list-group-item list-group-item-action">videos</a>
@@ -22,7 +22,7 @@
                    <a href="clinicalprocedureguideline" class="btn btn-primary">Introduction</a>
                      </div>
                     <div class="btn-group" role="group">
-                     <a href="clinicalchapters" class="btn btn-primary">Policies</a>
+                     <a href="clinicalchapters" class="btn btn-primary">CPGLs</a>
                    </div>
 
                     </div>

@@ -157,16 +157,25 @@
                             <li class="dropdown" >
                                 <a href="training" class="dropdawn-toggle" data-toggle="dropdown"> Trainning <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="courses"> Courses</a></li>
+                                    <li><a href="courseplan">Courses Plan</a></li>
+                                    <li><a href="courses" >Courses</a></li>
+                                    <li><a href="hrbook">Books</a></li>
+                                    <li><a href="hrpresentation">Presentations</a></li>
+                                    <li><a href="hrvedio">Vedios</a></li>
+
+
+
+
+
                                 </ul>
                             </li>
 
                             <li class="dropdown">
                                 <a href="aboutus" class="dropdawn-toggle" data-toggle="dropdown"> About us <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                      <li><a href="aboutus">Introduction</a></li>
+                                    <li><a href="aboutus">Introduction</a></li>
                                     <li><a href="presidentspeech"> President Letter</a></li>
-                                      <li><a href="ceospeech"> CEO Letter</a></li>
+                                    <li><a href="ceospeech"> CEO Letter</a></li>
                                     <li><a href="missionVision"> Mission & Vision</a></li>
 
                                 </ul>

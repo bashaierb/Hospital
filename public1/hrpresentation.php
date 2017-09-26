@@ -1,23 +1,25 @@
-﻿<?php include"includes/header.php" ?>
+<?php include"includes/header.php" ?>
 
 
         <div class="col-md-3" style="padding-top:25px;">
             <div class="list-group">
-                <a href="tqm" class="list-group-item active  ">Quality & Safety </a>
-                <a href="procedur&policy" class="list-group-item list-group-item-action">Policies & procedures</a>
-                <a href="clinicalprocedureguideline" class="list-group-item list-group-item-action">Clinical Procedures & Guidelines</a>
-                <a href="tqmbook" class="list-group-item list-group-item-action">Books</a>
-                <a href="tqmpresentation" class="list-group-item list-group-item-action">Orientations</a>
-                <a href="tqmvedio" class="list-group-item list-group-item-action">videos</a>
+                <a href="training" class="list-group-item active ">Training </a>
+                <a href="courseplan" class="list-group-item list-group-item-action">Courses Plan</a>
+                <a href="courses" class="list-group-item list-group-item-action">Courses</a>
+                <a href="hrbook" class="list-group-item list-group-item-action">Books</a>
+                <a href="hrpresentation" class="list-group-item list-group-item-action">Presentations</a>
+                <a href="hrvedio" class="list-group-item list-group-item-action">videos</a>
             </div>
-        </div>
+
+            </div>
+
         <div class="col-md-9" style="padding-top:25px;">
 
             <h4> Tiltle of presentation  </h4>
             <h5> Date : 4\5\2017</h5>
             <h5> Prepared By: Dr.Dalia </h5>
             <br>
-            <p>Click on the icon to download the book<p>
+            <p>Click on the icon to download the file<p>
 
         <a href="files/doc/test.pdf" download>
             <img border="0" src="files/doc/test.pdf" alt="W3Schools" width="104" height="142">
@@ -30,7 +32,7 @@
             <h5> Date : 4\5\2017</h5>
             <h5> Prepared By: Dr.Dalia </h5>
             <br>
-            <p>Click on the icon to download the book<p>
+            <p>Click on the icon to download the file<p>
 
         <a href="files/doc/test.pdf" download>
             <img border="0" src="files/doc/test.pdf" alt="W3Schools" width="104" height="142">

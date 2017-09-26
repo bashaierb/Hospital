@@ -4,7 +4,10 @@
         <div class="col-md-3" style="padding-top:25px;">
             <div class="list-group">
                 <a href="training" class="list-group-item active ">Training </a>
+                <a href="courseplan" class="list-group-item list-group-item-action">Courses Plan</a>
                 <a href="courses" class="list-group-item list-group-item-action">Course</a>
+                <a href="hrbook" class="list-group-item list-group-item-action">Books</a>
+                <a href="hrpresentation" class="list-group-item list-group-item-action">Presentations</a>
 
             </div>
         </div>
